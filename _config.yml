@@ -1,7 +1,7 @@
 name: iMS3.global
 favicon: null
-layout_spectrum: 0.7402943226043135
-typography_spectrum: 0.379875835031271
+layout_spectrum: 1
+typography_spectrum: 0.85038
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.5262223812751472
-  lightness: 0.6253010402433574
-  saturation: 0.06937721068970859
-  rhythmicContrast: 0.7075822614133358
+    - '#29abe2'
+    - '#ff931e'
+    - '#333399'
+    - '#2f59b0'
+    - '#2d78c3'
+  brandStrength: 0.375
+  lightness: 0.4375
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
